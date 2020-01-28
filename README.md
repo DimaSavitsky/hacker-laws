@@ -118,6 +118,12 @@ Examples:
 - [Coding Horror: The Broken Window Theory](https://blog.codinghorror.com/the-broken-window-theory/)
 - [OpenSource: Joy of Programming - The Broken Window Theory](https://opensourceforu.com/2011/05/joy-of-programming-broken-window-theory/)
 
+### New Content in the middle
+
+> Some stuff.
+
+This stuff is new.
+
 ### Brooks' Law
 
 [Brooks' Law on Wikipedia](https://en.wikipedia.org/wiki/Brooks%27s_law)
